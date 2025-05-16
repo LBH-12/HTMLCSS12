@@ -16,6 +16,7 @@ html,body{
         float:right;
         width:22%;
         height:70%;
+        text-align: center;
     }
     footer{
         clear:both;
